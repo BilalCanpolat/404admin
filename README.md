@@ -4,14 +4,14 @@ this project helps you translate the sites that you will write in a txt file to 
 Python programa dili kullandığımız bu yazılımda klasörünüzdeki domain.txt dosyasındaki urllerin sonuna /admin ekleyip 404 hatası vermeyen urlleri klasördeki valid_urls.txt dosyasına kaydeder
 
 how to use ? 
-create new folder 
-put the exploitpy.py in
-create new txt rename txt domain.txt 
-paste the site urls you want
-open terminal in folder and use this code
+/create new folder/ 
+/put the exploitpy.py in/
+/create new txt rename txt domain.txt/ 
+/paste the site urls you want/
+/open terminal in folder and use this code/
 
-PYTHON EXPLOİTPY.PY
-run
+/PYTHON EXPLOİTPY.PY/
+/run/
 
 
 Nasıl Kullanırım 
